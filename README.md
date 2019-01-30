@@ -1,2 +1,2 @@
 # mojerepozytorium
-Moje pierwsze repozytorium Git
+Moje pierwsze repozytorium GitHuber
